@@ -50,21 +50,6 @@ const Carol42 = {
  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=hafizhhasyhari&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt = "hafizhhasyhari Languages/Frameworks" width = 400 />
 </p>
 
-
-
-## ❤ Views and Followers
-<a href="https://leetcode.com/u/hafizhhasyhari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/hafizhhasyhari/" height="30" width="40" /></a>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hafizhhasyhari&label=Profile%20views&color=0e75b6&style=flat" alt="hafizhhasyhari" /> </p>   <p align="left">
-
-<a href="https://github.com/hafizhhasyhari?tab=followers"><img src="https://img.shields.io/github/followers/hafizhhasyhari?label=Followers&style=social" alt="GitHub Badge"></a>
-
-// Logo Mascot Git Animasi Bergerak //
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-</p>
-
 ## Technologies
 ### Kecerdasan Buatan (AI)/ Pembelajaran Mesin (ML) :
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
@@ -81,7 +66,21 @@ const Carol42 = {
 
 ## Animation Skill : 
 <a href="#"><img alt="Maya" src="https://img.shields.io/static/v1?message=Maya&color=088389&logo=Autodesk&logoColor=FFFFFF&label="></a>
-<a href="#"><img alt="Houdini" src="https://img.shields.io/static/v1?message=Houdini&color=FF4713&logo=Houdini&logoColor=FFFFFF&label="></a>
+<a href="#"><img alt="Houdini" src="https://img.shields.io/static/v1?message=Houdini&color=FF4713&logo=Houdini&logoColor=FFFFFF&label="></a
+                                                                                                                                            
+## ❤ Views and Followers
+<a href="https://leetcode.com/u/hafizhhasyhari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/hafizhhasyhari/" height="30" width="40" /></a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hafizhhasyhari&label=Profile%20views&color=0e75b6&style=flat" alt="hafizhhasyhari" /> </p>   <p align="left">
+
+<a href="https://github.com/hafizhhasyhari?tab=followers"><img src="https://img.shields.io/github/followers/hafizhhasyhari?label=Followers&style=social" alt="GitHub Badge"></a>
+
+// Logo Mascot Git Animasi Bergerak //
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+</p>
+
 ![breathtaking](https://user-images.githubusercontent.com/28642011/88486539-0c834a00-cf9c-11ea-90fb-0bdd082b81b2.png)
 
 <div align="center">
