@@ -69,12 +69,12 @@ const Carol42 = {
 <a href="#"><img alt="Houdini" src="https://img.shields.io/static/v1?message=Houdini&color=FF4713&logo=Houdini&logoColor=FFFFFF&label="></a
                                                                                                                                             
 ## ❤ Views and Followers
-<a href="https://leetcode.com/u/hafizhhasyhari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/hafizhhasyhari/" height="30" width="40" /></a>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hafizhhasyhari&label=Profile%20views&color=0e75b6&style=flat" alt="hafizhhasyhari" /> </p>   <p align="left">
-
+<a href="https://github.com/Meghna-DA/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=hafizhhasyhari">
+</a>
 <a href="https://github.com/hafizhhasyhari?tab=followers"><img src="https://img.shields.io/github/followers/hafizhhasyhari?label=Followers&style=social" alt="GitHub Badge"></a>
 
+<a href="https://leetcode.com/u/hafizhhasyhari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/hafizhhasyhari/" height="30" width="40" /></a>
 // Logo Mascot Git Animasi Bergerak //
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
