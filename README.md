@@ -69,13 +69,13 @@ const Carol42 = {
 <a href="#"><img alt="Houdini" src="https://img.shields.io/static/v1?message=Houdini&color=FF4713&logo=Houdini&logoColor=FFFFFF&label="></a
                                                                                                                                             
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DA/github-profile-views-counter">
+<a href="https://github.com/hafizhhasyhari/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=hafizhhasyhari">
 </a>
 <a href="https://github.com/hafizhhasyhari?tab=followers"><img src="https://img.shields.io/github/followers/hafizhhasyhari?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <a href="https://leetcode.com/u/hafizhhasyhari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/hafizhhasyhari/" height="30" width="40" /></a>
-// Logo Mascot Git Animasi Bergerak //
+
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
