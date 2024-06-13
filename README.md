@@ -81,7 +81,11 @@ const Carol42 = {
 <td align="center">
 <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.organization.svg" alt="https://github.com/hafizhhasyhari"></img>
 </td>
-  </tr>                                                                                                                                            
+  </tr>       
+
+
+    <th><a href="source/plugins/isocalendar/README.md">📅 Isometric commit calendar</a></th>
+    <th><a href="source/plugins/languages/README.md">🈷️ Languages activity</a></th>
 </table>                                                                                                                                            
                                                                                                                                             
                                                                                                                                             
