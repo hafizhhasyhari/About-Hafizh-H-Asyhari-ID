@@ -82,7 +82,7 @@ const Carol42 = {
 <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.organization.svg" alt=""></img>
 </td>
   </tr>                                                                                                                                            
-                                                                                                                                            
+</table>                                                                                                                                            
                                                                                                                                             
                                                                                                                                             
 ## ❤ Views and Followers
