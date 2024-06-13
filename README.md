@@ -67,6 +67,23 @@ const Carol42 = {
 ## Animation Skill : 
 <a href="#"><img alt="Maya" src="https://img.shields.io/static/v1?message=Maya&color=088389&logo=Autodesk&logoColor=FFFFFF&label="></a>
 <a href="#"><img alt="Houdini" src="https://img.shields.io/static/v1?message=Houdini&color=FF4713&logo=Houdini&logoColor=FFFFFF&label="></a
+
+                                                                                                                                            
+<table>
+  <tr>
+    <th align="center">For user accounts</th>
+    <th align="center">For organization accounts</th>
+  </tr>
+  <tr>
+    <td align="center">
+<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt=""></img>
+</td>
+<td align="center">
+<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.organization.svg" alt=""></img>
+</td>
+  </tr>                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                            
                                                                                                                                             
 ## ❤ Views and Followers
 <a href="https://github.com/hafizhhasyhari/github-profile-views-counter">
