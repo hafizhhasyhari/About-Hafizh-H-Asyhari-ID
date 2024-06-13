@@ -66,7 +66,7 @@ const Carol42 = {
 
 ## Animation Skill : 
 <a href="https://www.autodesk.com/asean/products/maya/overview?mktvar002=5019031|SEM|21311982685|164257532522|kwd-1971040707&utm_source=GGL&utm_medium=SEM&utm_campaign=GGL_DEC_Maya_APAC_ID_eComm_SEM_BR_NA_EX_0000_5019031_&utm_id=5019031&utm_term=kwd-1971040707&term=1-YEAR&tab=subscription&mkwid=s|pcrid|700556567228|pkw|autodesk%20maya|pmt|e|pdv|c|slid||pgrid|164257532522|ptaid|kwd-1971040707|pid|&utm_medium=cpc&utm_source=google&utm_campaign&utm_term=autodesk%20maya&utm_content=s|pcrid|700556567228|pkw|autodesk%20maya|pmt|e|pdv|c|slid||pgrid|164257532522|ptaid|kwd-1971040707|&gad_source=1&gclid=Cj0KCQjwsaqzBhDdARIsAK2gqncz0A2XbOuFEjH8xs2uw0aGHH4bX_DtR4-g4xtRYN4ObI6XEpLd_XsaApfaEALw_wcB&ef_id=Zkl6DQABAnrUHABb:20240613094549:s&plc=MAYA"><img alt="Maya" src="https://img.shields.io/static/v1?message=Maya&color=088389&logo=Autodesk&logoColor=FFFFFF&label="></a>
-<a href="https://www.sidefx.com/products/houdini/"><img alt="Houdini" src="https://img.shields.io/static/v1?message=Houdini&color=FF4713&logo=Houdini&logoColor=FFFFFF&label="></a
+<a href="https://www.sidefx.com/products/houdini"><img alt="Houdini" src="https://img.shields.io/static/v1?message=Houdini&color=FF4713&logo=Houdini&logoColor=FFFFFF&label="></a
 
                                                                                                                                             
 <table>
@@ -76,10 +76,10 @@ const Carol42 = {
   </tr>
   <tr>
     <td align="center">
-<img alt="" width="400" src="https://github.com/hafizhhasyhari/metrics/blob/examples/metrics.classic.svg" alt=""></img>
+<img alt="" width="400" src="https://github.com/hafizhhasyhari/metrics/blob/examples/metrics.classic.svg" alt="https://github.com/hafizhhasyhari"></img>
 </td>
 <td align="center">
-<img alt="" width="400" src="https://github.com/hafizhhasyhari/metrics/blob/examples/metrics.organization.svg" alt=""></img>
+<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.organization.svg" alt="https://github.com/hafizhhasyhari"></img>
 </td>
   </tr>                                                                                                                                            
 </table>                                                                                                                                            
